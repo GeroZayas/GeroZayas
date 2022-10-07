@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeroZayas
-- 👀 I’m interested in Python and Full-Stack Web Development!
+- 👀 I’m interested in Python and Fullstack Web Development!
 - 🌱 I’m currently learning Advanced Python plus Data Structures and Algorithms in JavaScript.
 - 💞️ I’m looking to collaborate on Python and JavaScript projects.
 - 📫 How to reach me: gerozayas@gmail.com
