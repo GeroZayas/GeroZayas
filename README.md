@@ -5,7 +5,7 @@
 - 📫 How to reach me: gerozayas@gmail.com
 
 ## Some of my projects:
-- **Problem Solving Questions** Desktop App -> "https://github.com/GeroZayas/Problem-Solving-Questions-GUI"
+- **Problem Solving Questions** Desktop App [Link](https://github.com/GeroZayas/Problem-Solving-Questions-GUI)
 
 <!---
 GeroZayas/GeroZayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
