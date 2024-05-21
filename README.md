@@ -4,7 +4,7 @@
 - 💞️ I’m looking fordward to collaborating on Python and JavaScript projects.
 - 📫 How to reach me: gerozayas@gmail.com
 
-## Some of my projects:
+## Some of my projects 🖥️ :
 - **Problem Solving Questions** Desktop App [Link](https://github.com/GeroZayas/Problem-Solving-Questions-GUI)
 
 <!---
