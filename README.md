@@ -16,6 +16,7 @@
 - 📺 **YouTube Playlist Downloader** - [Repo Link](https://github.com/GeroZayas/Youtube-Playlist-Downloader) - This CLI app uses the pytube library to easily download entire YouTube Playlists right from your terminal ⬇️.
 - 📝 **Student Report Generator** Desktop App - [Repo Link](https://github.com/GeroZayas/Student-Report-Generator) - This GUI App allows you to easily and comfortably generate entire .docx reports for students in a language academy so that many hours of tedious work are removed from the teacher's job 📄.
 - 💬 **Goodreads Quotes Visualizer and Downloader** - [Repo Link](https://github.com/GeroZayas/Goodreads-Quotes-App-Streamlit) - This cool Streamlit Web App allows you to get hold of all the quotes on [goodreads.com](https://www.goodreads.com/) based on a searched author or book. [Goodreads Quotes Web App](https://goodreads-quotes.streamlit.app/) ⬇️
+- 📄 **PDF Items List Extractor and CSV Utility Tool** - [Repo Link](https://github.com/GeroZayas/PDF-itemslist-extractor) - This useful terminal app helps you extract all the items from lists in a PDF file and save them to a CSV file. It also allows to merge multiple CSV files with extracted list items into a unique CSV files with all of them.
 
 
 
