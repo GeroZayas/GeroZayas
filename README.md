@@ -5,6 +5,7 @@
 - 📫 How to reach me: gerozayas@gmail.com
 
 ## 🖥️ Some of my projects:
+- **Automatic Google Calendar Free Time Finder & Event Creator** Desktop App - [Repo Link](https://github.com/GeroZayas/Google-Calendar-Automatic-Free-Time-Finder-And-Event-Creator) - Streamlit app that helps you easily find some free time on your Google Calendar and Create events so you don't go through the hassle of doing it manually 🔧.
 - 🧠 **Problem Solving Questions** Web App - [Repo Link ](https://github.com/GeroZayas/TR-ProblemSolvingQuestions-Reflex) - Reflex Web App improved and interactive version of the Problem Solving Questions Desktop App. [Problem Solving Questions Web App](https://problemsolving.reflex.run/) 🔧 🌐
 - 🧠 **Problem Solving Questions** Desktop App - [Repo Link ](https://github.com/GeroZayas/Problem-Solving-Questions-GUI) - This Tkinter app helps you solve internal conflicts and problems by offering you a set of questions that bring clarity and more empowering meanings. It is completely based on the amazing work from Tony Robbins 🖥️.
 - 🇬🇧 📚 **Best English Resources** 🅐🅟🅘 - [Repo Link](https://github.com/GeroZayas/Best-English-Resources-API) - This simple but powerful Flask API helps you have access to arguably the best curated collection of ESL resources online, both for students and educators 💻. [Best English Resources API Web](https://api-english-resources.up.railway.app/) 🌐.
