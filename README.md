@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GeroZayas
-- 👀 I love Python and Fullstack Web Development!
-- 🌱 I’m currently learning Advanced Python + Data Structures and Algorithms in Python and JS (plus many other things).
-- 💞️ I’m looking fordward to collaborating on Python and JavaScript projects.
+- 👀 I love Odin, Python and The Web!
+- 🌱 I’m currently learning the amazing Odin programming language and Advanced Python.
 - 📫 How to reach me: gerozayas@gmail.com
 
 ## 🖥️ Some of my projects:
