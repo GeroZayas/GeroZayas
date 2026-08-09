@@ -10,6 +10,14 @@ This decision comes from the prefound need of growing and contributing via the a
 
 I take all the inspiration from people like [Ginger Bill](https://www.gingerbill.org/), [Casey Muratori](https://caseymuratori.com/), [Nic Barker](https://www.nicbarker.com/), [Anton Mikhailov](https://x.com/antovsky), [Delaney Gillilan](https://github.com/delaneyj) and the [Handmade Network](https://handmade.network/). I only aspire to be like them, and create programming value that generates happiness, wealth and prosperity for as many people as possible.
 
+## 🧑‍🏭 Experience with
+- Python (FastAPI)
+- FullStack Development (HTML, CSS, JS, SQL)
+- Odin (currently learning)
+- Datastar (currently learning)
+- GCP (BigQuery, Cloud Run, Cloud Engine, Storage, Scheduler, PubSub)
+
+
 <!---
 GeroZayas/GeroZayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
