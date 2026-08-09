@@ -8,7 +8,7 @@ As of August 2026 I have decided to have only **handmade programs here**. I have
 
 This decision comes from the prefound need of growing and contributing via the actual products of my hands and my brain, and the deepest love for programming computers, not the excruciating waiting between *prompts*.
 
-I take all the inspiration from people like Ginger Bill, Casey Muratori, Nic Barker, Anton Mikhailov, Delaney Gillilan and the Handmade Network. I only aspire to be like them, and create value that generates happiness, wealth and prosperity for as many people as possible.
+I take all the inspiration from people like [Ginger Bill](https://www.gingerbill.org/), Casey Muratori, Nic Barker, Anton Mikhailov, Delaney Gillilan and the Handmade Network. I only aspire to be like them, and create value that generates happiness, wealth and prosperity for as many people as possible.
 
 <!---
 GeroZayas/GeroZayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
