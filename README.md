@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @GeroZayas
+- 👋 Qué bolá, asere? I’m @GeroZayas 🇪🇸 🇨🇺
 - 👀 I love Odin, Python and The Web!
 - 🌱 I’m currently learning the amazing Odin programming language and Advanced Python.
 - 📫 How to reach me: gerozayas@gmail.com
 
+## 💻 Notes about the REPOS and AI 
+As of August 2026 I have decided to have only **handmade programs here**. I have nothing against *AI Code Generation (AIcg)*, as I have to use this "new way" at my job almost all the time, but in my personal projects and all my private programming endevours **I shall be writing every line with my actual hands**, so that I actually **own my code and learn from the struggle**, as I, we, were doing before this sort of *"AI revolution"*. In complete transparency, I must say that I have created ai generated projects (especially with the use of Google AI Studio) multiple times before, and I have put them here, but those projects are now to be deleted completely or made private repos, in case I want to read that AI generated code and learn, get inspired or simply discover new pieces of knowledge and then, maybe, create my own version of those programs all by hand. **I will not have AI generated projects here**, or anywhere else, even though I do understand how those programs might be helpful to others. Nevertheless, the same way I have able to quickly draft them in 'aistudio', so can anyone else, which means I am not really depriving people of anything important.
+
+This decision comes from the prefound need of growing and contributing via the actual products of my hands and my brain, and the deepest love for programming computers, not the excruciating waiting between *prompts*.
+
+I take all the inspiration from people like Ginger Bill, Casey Muratori, Nic Barker, Anton Mikhailov, Delaney Gillilan and the Handmade Network. I only aspire to be like them, and create value that generates happiness, wealth and prosperity for as many people as possible.
 
 <!---
 GeroZayas/GeroZayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
