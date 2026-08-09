@@ -5,6 +5,7 @@
 
 ## 🕹️ Thoughts and Recommendations
 ➡️ If you are interested in Low Level & Systems programming you should learn about [Odin](https://odin-lang.org/), which has quickly replaced Python as my favorite programming language. I am still a total beginner in it, but it is amazingly worth it.
+
 ➡️ If you are about the Web, which is unfortunately quite underrated nowadays, you should definitely learn about [Datastar](https://data-star.dev/)
 
 
