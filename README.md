@@ -1,6 +1,6 @@
 - 👋 Qué bolá, asere? I’m @GeroZayas 🇪🇸 🇨🇺
 - 👀 I love Odin, Python and The Web!
-- 🌱 I’m currently learning the amazing Odin programming language, Datastar and Advanced Python.
+- 🌱 I’m currently learning the amazing Odin programming language, Datastar and Advanced Python (and C, 'cause, I mean...).
 - 📫 How to reach me: gerozayas@gmail.com
 
 ## 🕹️ Thoughts and Recommendations
