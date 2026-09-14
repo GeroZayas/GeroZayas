@@ -17,6 +17,7 @@ This decision comes from the prefound need of growing and contributing via the a
 I take all the inspiration from people like [Ginger Bill](https://www.gingerbill.org/), [Casey Muratori](https://caseymuratori.com/), [Nic Barker](https://www.nicbarker.com/), [Anton Mikhailov](https://x.com/antovsky), [Delaney Gillilan](https://github.com/delaneyj) and the [Handmade Network](https://handmade.network/). I only aspire to be like them, and create programming value that generates happiness, wealth and prosperity for as many people as possible.
 
 ## 💾 Programs you might be interested in
+- **DirDiff** Simple Dir Comparison program written from scratch in Odin - [link](https://github.com/GeroZayas/Dir-Diff)
 - **Gotta Do** Simple To Do program made with Datastar - [link](https://github.com/GeroZayas/Gotta-Do)
 - Curated collection of the **best online resources for ESL Learning and Teaching**. [Best English Resources](https://github.com/GeroZayas/Best-English-Resources)
 - **WIP Quiz Game** using the Karl2D framework in Odin-lang [Lang Battle Q](https://github.com/GeroZayas/Lang-Battle-Q-Karl2D-exercise)
